@@ -1,4 +1,4 @@
-// const cart = ["oneplus 11r","ram 8 gb","laptop ssd 2.5"];
+const cart = ["oneplus 11r","ram 8 gb","laptop ssd 2.5"];
 
 // const promise =createorder(cart);
 // promise is an object is refers eventuall completetion of asynck opt
@@ -10,7 +10,7 @@
 //     protopay(orderID);
 // });
 
-const api ="https://api.github.com/users/akshaymarch7";
+/*const api ="https://api.github.com/users/akshaymarch7";
 
 const user =fetch(api);
 
@@ -25,3 +25,4 @@ user.then(function(dat){
 })
 
 //3 states in promise pending,fullfilled,rejected;
+*/
