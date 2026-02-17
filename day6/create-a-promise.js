@@ -44,3 +44,4 @@ function pay(orderID){
         resolve("payment Sucessfull");
     });
 }
+//Promises are used instead of callbacks to avoid callback hell, improve readability, provide better error handling, and allow easier async flow using chaining and async/await.
